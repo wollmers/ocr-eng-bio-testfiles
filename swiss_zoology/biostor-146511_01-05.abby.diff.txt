@@ -1,0 +1,474 @@
+../../ocr-measures/ocr_compare.pl Version 0.01
+
+comparing OCR text output against ground truth (grt):
+File 1 (OCR): biostor-146511_01-05.abby.txt
+File 2 (GRT): biostor-146511_01-05.corr.txt
+
+Revue suisse de Zoologie 1 19 (2): 189-193; juin 2012¶
+|====|======|==||=======||+||||||||||||||||||||||||||| 0.630
+REVUE SUISSE DE ZOOLOGIE 1_19 (2): 189-193; juin 2012¶
+
+A new eyeless species of Howdeniola Osella, 1980 from Ecuador¶ 1.000
+
+(Coleoptera, Curculionidae)¶ 1.000
+
+Christoph GERM ANN¶
+||||||||||||||+|||| 0.947
+Christoph GERM_ANN¶
+
+Natur-Museum Luzern, Kasem_enplatz 6, CH-6003 Luzern and Naturhistorisches¶
+|||||=|||||||||||||||||||=-|||||||||||||||||||||||||||||||||||||||||||||||| 0.960
+Natur—Museum Luzern, Kasernenplatz 6, CH-6003 Luzern and Naturhistorisches¶
+
+Museum der Burgergemeinde Bern, Bem_astrasse 15, CH-3005 Bern.¶
+||||||||||||||||||||||||||||||||||=-||||||||||||||||||||||||||| 0.968
+Museum der Burgergemeinde Bern, Bernastrasse 15, CH-3005 Bern.¶
+
+E-mail : germann. chri stoph@gmail.com¶
+|=||||+||||||||||+||||+|||||||||||||||| 0.897
+E—mail_: germann._chri_stoph@gmail.com¶
+
+A new eyeless species of Howdeniola Osella, 1980 from Ecuador¶ 1.000
+
+(Coleoptera, Curculionidae). - Howdeniola polled_ sp. nov. is described¶
+|||||||||||||||||||||||||||||||||||||||||||||||=-||||||||||||||||||||||| 0.972
+(Coleoptera, Curculionidae). - Howdeniola polleti sp. nov. is described¶
+
+from southern Ecuador. The fifth species of the Neotropic Howdeniola¶ 1.000
+
+Osella, 1980 represents the southernmost record of the genus, and the first¶ 1.000
+
+with no visible eye remnants. The single male specimen was caught in a pan¶ 1.000
+
+trap in the Podocarpus National Park at 2000 m a. s. 1. in a lower montane¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||=||||||||||||||||||||| 0.987
+trap in the Podocarpus National Park at 2000 m a. s. l. in a lower montane¶
+
+rainforest.¶ 1.000
+
+Keywords: Cossoninae - eyeless species - taxonomy - South America -¶ 1.000
+
+Podocarpus National Park - Ecuador.¶ 1.000
+
+INTRODUCTION¶ 1.000
+
+The genus Howdeniola Osella, 1980 was originally placed into Molytinae, later¶ 1.000
+
+Howden (1992) moved it to Cossoninae. Alonso-Zarazaga &amp; Lyal (1999) listed¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||++++|||||||||||||||||||| 0.949
+Howden (1992) moved it to Cossoninae. Alonso-Zarazaga &____ Lyal (1999) listed¶
+
+Howdeniola in the tribe Dryotribini Le Conte, 1876 together with the supposed closely¶ 1.000
+
+related Micromimus Wollaston, 1873.¶ 1.000
+
+Howdeniola comprises four hitherto described species, all with vestigial eyes:¶ 1.000
+
+H. nitidipennis Osella, 1980 and H. sulcipennis Osella, 1980 - both from Colombia -¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||=||||||||||||||||||||=| 0.976
+H. nitidipennis Osella, 1980 and H. sulcipennis Osella, 1980 — both from Colombia —¶
+
+and H. margheritae Bello &amp; Osella, 2008 and H. onorei Bello &amp; Osella, 2008 - both¶
+|||||||||||||||||||||||=||++++||||||||||||||||||||||||||||||||=||++++||||||||||||||||||||| 0.889
+and H. margheritae Belló &____ Osella, 2008 and H. onorei Belló &____ Osella, 2008 - both¶
+
+from northern Ecuador - (Osella 1980, Bello &amp; Osella 2008).¶
+||||||||||||||||||||||||||||||||||||||||||=||++++||||||||||||||| 0.922
+from northern Ecuador - (Osella 1980, Belló &____ Osella 2008).¶
+
+Within a biodiversity sampling project in Podocarpus National Park in Ecuador¶ 1.000
+
+a single male specimen of an eyeless weevil was caught. This specimen shows the¶ 1.000
+
+typical characters of Howdeniola which are modified and summarized after Osella¶ 1.000
+
+(1980) and Howden (1992) as follows: (I) fore margin of epistoma overhanging mouth-¶ 1.000
+
+parts, (II) impunctate head abruptly different from rostrum, (III) eyes reduced or¶ 1.000
+
+lacking, (IV) scrobe latero- ventral, reaching to or near base of rostrum, (V) seven¶
+||||||||||||||||||||||||||||+|||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.988
+lacking, (IV) scrobe latero-_ventral, reaching to or near base of rostrum, (V) seven¶
+
+articulated funiculus of the antenna, (VI), conspicuously elongated tibial uncus at outer¶ 1.000
+
+angle, (VII) scutellum dorsally not visible, (VIII) basal margin of elytra elevated, (IX)¶ 1.000
+
+shiny integument of the body.¶ 1.000
+
+In the following Howdeniola polled_ sp. nov. from southern Ecuador is¶
+|||||||||||||||||||||||||||||||||=-||||||||||||||||||||||||||||||||||| 0.971
+In the following Howdeniola polleti sp. nov. from southern Ecuador is¶
+
+described.¶ 1.000
+
+MATERIAL AND METHODS¶ 1.000
+
+The male genital structures were extracted and dry glued on the mounting card.¶ 1.000
+
+The genital structures were photographed beneath glycerol with a 5-megapixel digital¶ 1.000
+
+Manuscript accepted 04.04.20 12¶
+||||||||||||||||||||||||||||+||| 0.969
+Manuscript accepted 04.04.20_12¶
+
+190___________¶ 0.267
+
+C. GERMANN¶
++++++++++++ 0.000
+___________
+
+camera (Leica DFC425) under a stereomicroscope (Leica MZ16). The same camera¶ 1.000
+
+was used for the habitus pictures. The pictures are composites processed using the soft-¶ 1.000
+
+ware Imagic Image Access (Version 10) and then retouched using Adobe Photoshop¶ 1.000
+
+version 10.0.1 (Adobe Systems Incorporated). The body size was measured dorsally¶ 1.000
+
+from the apex of the elytra to the base of the rostrum.¶
+|||||||||||||||||||||||||||||+|||||||||||||||||||||||||| 0.982
+from the apex of the elytra t0 the base of the rostrum.¶
+
+Label data is reported literally, labels are separated by double slash (//), and own¶ 1.000
+
+remarks are added in rectangular brackets.¶ 1.000
+
+TAXONOMIC PART¶ 1.000
+
+Howdeniola polled_ sp. nov. Figs 1-6¶
+||||||||||||||||=-||||||||||||||||||| 0.946
+Howdeniola polleti sp. nov. Figs 1-6¶
+
+Holotype: 6 ; (EC) Zamora Chinchipe: San Francisco, Reserva Biologica // San¶
+|=======||=+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.883
+HOLOTYPE: ♂_; (EC) Zamora Chinchipe: San Francisco, Reserva Biologica // San¶
+
+Francisco, all trails, 2000m [m a.s.l.], 03°58'30"S 79°04 , 25”W, // 25/02/2009-3/03/2009 (PT)¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||=++||=|||||||||||||||||||||||||||||||| 0.958
+Francisco, all trails, 2000m [m a.s.l.], 03°58'30"S 79°04'__25"W, // 25/02/2009-3/03/2009 (PT)¶
+
+[pan trap], leg. Marc Pollet &amp; Anja De // Braekeleer, sorted by Marc Pollet - sample code:¶
+||||||||||||||||||||||||||||||++++||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.958
+[pan trap], leg. Marc Pollet &____ Anja De // Braekeleer, sorted by Marc Pollet - sample code:¶
+
+EC/2009-3 6/MP&amp;ADB-01 8 // [red label] Holotype Howdeniola polled_ sp. nov. des. C. Germann¶
+|||||||||+|||||++++||||||+||||||||||||||||||||||||||||||||||||||||||=-|||||||||||||||||||||||||| 0.917
+EC/2009-3_6/MP&____ADB-01_8 // [red label] Holotype Howdeniola polleti sp. nov. des. C. Germann¶
+
+2012.¶ 1.000
+
+REMARKS: The specimen was caught in a 5% formalin (= 2% formaldehyde)¶ 1.000
+
+fixative solution with detergent in the traps, and then stored in 70% alcohol. The¶ 1.000
+
+specimen was treated with Pepsin solution for preparation of the genital organs. The¶ 1.000
+
+holotype specimen is deposited in the RBINS (Royal Belgian Institute of Natural¶ 1.000
+
+Sciences).¶ 1.000
+
+Description: Habitus : Figs 1-2.¶
+|==========|||||||||+|||||||||||| 0.667
+DESCRIPTION: Habitus_: Figs 1-2.¶
+
+Size : 1.96 mm¶
+||||+|||||||||| 0.933
+Size_: 1.96 mm¶
+
+Body colour, auburn, glossy.¶
+|||||||||||=||||||||||||||||| 0.966
+Body colour: auburn, glossy.¶
+
+Head, rostrum and antennae : Head (Fig. 3) globose, impunctate and glabrous,¶
+||||||||||||||||||||||||||+|||||||||||||||||||||||||||||||||||||||||||||||||| 0.987
+Head, rostrum and antennae_: Head (Fig. 3) globose, impunctate and glabrous,¶
+
+abruptly different from rostrum. Eyes lacking. Rostrum about four times longer than¶ 1.000
+
+wide, elliptical in cross-section, dorsally sparsely punctate, epistoma glabrous and¶ 1.000
+
+impunctate, fore margin hanging over mouthparts. Scrobes latero- ventral, reaching to¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||=+||||||||||||||||||||| 0.977
+impunctate, fore margin hanging over mouthparts. Scrobes latero—_ventral, reaching to¶
+
+the base. Antennal insertion bulged in dorsal view, antennae inserted at beginning of¶
+||||||||||||||||||||||||||||||||||||||||||||||=||||||||||||||||||||||||||||||||||||||| 0.988
+the base. Antennal insertion bulged in dorsal View, antennae inserted at beginning of¶
+
+apical third of rostrum. Antennal scape gradually enlarged, as long as funiculus.¶ 1.000
+
+Funiculus (Fig. 4) consisting of seven segments of following ratios (L/B): 1 st : 1.25;¶
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+||+|||||||| 0.977
+Funiculus (Fig. 4) consisting of seven segments of following ratios (L/B): 1_st_: 1.25;¶
+
+2 nd : 0.9; 3 rd : 0.6; 4 th to 6 th : 0.5; 7 th : 2.0. Club oval, circular in cross-section, densely¶
+|+||+||||||||+||+||||||||+|||||||+||+||||||||+||+||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.912
+2_nd_: 0.9; 3_rd_: 0.6; 4_th to 6_th_: 0.5; 7_th_: 2.0. Club oval, circular in cross-section, densely¶
+
+clothed with long white setae, and sitting in the bowl-like 7 th segment.¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||+|||||||||||| 0.986
+clothed with long white setae, and sitting in the bowl-like 7_th segment.¶
+
+Pronotum : Index (L/B): 1.53. Longer than wide, strongly constricted after the¶
+||||||||+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.987
+Pronotum_: Index (L/B): 1.53. Longer than wide, strongly constricted after the¶
+
+first third, widest after the middle. Surface deeply punctate with interspaces of about¶ 1.000
+
+the size of punctation. Short bright hairs arise from punctation.¶ 1.000
+
+Elytra: Index (L/B): 1.76. Base narrower than pronotum, oval, lacking humeral¶ 1.000
+
+callus (apterous), widest before the middle, tapered towards base and conical towards¶ 1.000
+
+apex. Eight deeply punctate striae, intervals including suture narrow, elevated and¶ 1.000
+
+costate with minute adherent hairs. Intervals (excluding suture) 3, 5, 6 and 7 are in-¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||=| 0.989
+costate with minute adherent hairs. Intervals (excluding suture) 3, 5, 6 and 7 are in—¶
+
+complete, not reaching the elytral apex. Five stem_ites, of which 3 and 4 are equal,¶
+|||||||||||||||||||||||||||||||||||||||||||||||||=-|||||||||||||||||||||||||||||||||| 0.976
+complete, not reaching the elytral apex. Five sternites, of which 3 and 4 are equal,¶
+
+stemite 5 rounded towards apex, deeply punctate with bowed hairs and slightly bulged¶ 1.000
+
+in the middle.¶ 1.000
+
+Legs: Coxae separated from each other as follows: procoxae by less than !4_ of¶
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||==-|||| 0.962
+Legs: Coxae separated from each other as follows: procoxae by less than 1/2 of¶
+
+their diameter, mesocoxae by Vi_ and metacoxae by two times of their diameter. Femora¶
+|||||||||||||||||||||||||||||==-|||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.965
+their diameter, mesocoxae by 1/2 and metacoxae by two times of their diameter. Femora¶
+
+unarmed, punctate, short adherent bright hairs arise. Tibiae punctate with short adher-¶ 1.000
+
+HOWDENIOLA POLLETI SP. NOV.____¶ 0.875
+
+191¶
+|++| 0.500
+1__¶
+
+Figs 1-2¶
++==+|==+| 0.222
+0.5_ mm_¶
+
+Howdeniola polled sp. nov. (holotype). Habitus in lateral view (1) and dorsal view (2).¶
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|++| 0.023
+____________________________________________________________________________________2__¶
+
+_________ 0.000
+
+_________________________________________________________________________________________ 0.000
+
+ent bright hairs. Inner side of tibiae set with raised bright hairs, fore tibiae with densely¶ 1.000
+
+standing raised bristles from the middle on. Apex of tibiae with long curved uncus at¶ 1.000
+
+outer apical angle, and short tooth at inner angle. Tarsi with three well visible tarsal¶ 1.000
+
+segments, fourth very short. Claw segment as long as first tarsal segment, claws minute¶ 1.000
+
+and simple.¶ 1.000
+
+Aedeagus (Figs 5-6): Apex of aedeagus asymmetrically pointed, ventrally hook-¶ 1.000
+
+like bowed. Median lobe containing a tubular sclerite diverging towards apophyses.¶ 1.000
+
+Differential Diagnosis: Howdeniola polled_ sp. nov. differs from all other¶
+|===========||========||||||||||||||||||=-||||||||||||||||||||||||||||||||| 0.720
+DIFFERENTIAL DIAGNOSIS: Howdeniola polleti sp. nov. differs from all other¶
+
+four above-mentioned members of the genus by the slender elytra with narrow and¶ 1.000
+
+costate intervals, the strongly constricted pronotum before its fore margin, and the¶ 1.000
+
+conspicuously pointed apex of the aedeagus.¶ 1.000
+
+192___________¶ 0.267
+
+C.__ GERM ANN___¶
++|--|==++|+==---| 0.235
+0.25 mm__ 0.1 mm¶
+
+Howdeniola polled sp. nov. (holotype). (3) Head and anterior portion of pronotum in lateral¶
+++++++++++++++++++++++++++++++++++++++++|+|=+++++++++++++++++++++++++++++++++++++++++++++++| 0.033
+________________________________________3_ 4_______________________________________________¶
+
+_________ 0.000
+
+_____________________________________________________________________________________________ 0.000
+
+view. (4) Antenna. (Illustrations by C. Hochholdinger).¶ 1.000
+
+Key of the species of Howdeniola¶
+|==|==|===|=======|==||=========| 0.242
+KEY OF THE SPECIES OF HOWDENIOLA¶
+
+Modified after Bello &amp; Osella (2008: 473)¶
+|||||||||||||||||||=||++++|||||||||||||||||||| 0.891
+Modified after Belló &____ Osella (2008: 473)¶
+
+1 Elytra smooth, shiny. Pronotum with small and widely space punctation.¶ 1.000
+
+Colombia (Quindio) __________________________nitidipennis Osella, 1980¶ 0.634
+
+__Elytra with punctate striae not or faintly shiny. Pronotum with dense¶ 0.972
+
+punctation ____________________________________________________2¶ 0.200
+
+2 Elytra globose, strongly striate. Pronotum rounded laterally. Colombia¶ 1.000
+
+(Saladido) __________________________________sulcipennis Osella (1980)¶ 0.521
+
+__Elytra less globose. Pronotum cylindrical_____________________________ 3¶ 0.587
+
+3 Intervals on Elytra flat, smooth. Aedeagus widened with a cordiform¶
+||||||||||||||||||||||=+|||||||||||||||||||||||||||||||||||||||||||||| 0.971
+3 Intervals on Elytra ﬂ_at, smooth. Aedeagus widened with a cordiform¶
+
+apex. Ecuador (Pichincha, Cerro Blanco) ___________onorei Bello &amp; Osella 2008¶
+||||||||||||||||||||||||||||||||||||||||-----------|++||||||||=||++++||||||||||||| 0.780
+apex. Ecuador (Pichincha, Cerro Blanco) ........ (mo__rei Belló &____ Osella 2008¶
+
+__Intervals slightly cariniform. Aedeagus elongate pointed_________________ 4¶ 0.756
+
+4 Antennae inserted at apical fifth of rostrum. Vestigial eyes. Pronotum¶ 1.000
+
+constricted before fore margin. Elytra more oval, with long raised setae.¶ 1.000
+
+Ecuador (Pichincha, Otonga) _____________margheritae Bello &amp; Osella 2008¶
+||||||||||||||||||||||||||||-------------||||||||||||||||=||++++||||||||||||| 0.766
+Ecuador (Pichincha, Otonga) ............ margheritae Belló &____ Osella 2008¶
+
+__Antennae inserted at beginning of apical third of rostrum. Eyes lacking.¶ 0.973
+
+Pronotum strongly constricted before fore margin. Elytra more elongate,¶ 1.000
+
+with minute adherent hairs. Ecuador (Zamora Chinchipe, San Francisco)¶ 1.000
+
+__________________________________________________polled_ sp. nov.¶
+--------------------------------------------------|||||=-|||||||||| 0.224
+................................................. polleti sp. nov.¶
+
+DERIVATIO NOMINIS: The new species Howdeniola polled_ sp. nov. is named¶
+|||||||||||||||||||||||||||||||||||||||||||||||||||=-||||||||||||||||||| 0.972
+DERIVATIO NOMINIS: The new species Howdeniola polleti sp. nov. is named¶
+
+after its collector, dear colleague and renowned dipterist Dr. Marc Pollet (Brussels,¶ 1.000
+
+Belgium).¶ 1.000
+
+BlONOMY: Howdeniola polled_ sp. nov. was collected in pan traps, these were¶
+|=|||||||||||||||||||||||=-||||||||||||||||||||||||||||||||||||||||||||||||| 0.961
+BIONOMY: Howdeniola polleti sp. nov. was collected in pan traps, these were¶
+
+dug into the soil until their upper rim. The biome at the altitude of 2000 m a. s. 1. can¶ 1.000
+
+be considered as lower montane rainforest (written communication M. Pollet).¶ 1.000
+
+Distribution*. Howdeniola polled_ sp. nov. represents the southernmost find of¶
+|============+|||||||||||||||||=-|||||||||||||||||||||||||||||||||||||||||||||| 0.810
+DISTRIBUTION:_ Howdeniola polleti sp. nov. represents the southernmost find of¶
+
+the genus. Furthermore an undescribed Howdeniola was recorded from Costa Rica¶ 1.000
+
+HOWDENIOLA POLLETI SP. NOV.____¶ 0.875
+
+193¶
+=++| 0.250
+5__¶
+
+0.25 mm¶ 1.000
+
+Figs 5-6¶
++++++++|| 0.222
+_______6¶
+
+Howdeniola polled sp. nov. (holotype). Aedeagus in lateral view (5) and ventral view (6).¶
+====++++++|++++++++++++++++++++++++++++++++++++++++++++++++++++++|=+++++++++++++++++++|++| 0.044
+FIGS______ ______________________________________________________5-___________________6__¶
+
+___________________________________________________________________________________________ 0.000
+
+(Rancho Quemado, Osa, Puntarenas, leg. F.A. Quesada, det. R. Anderson; record from¶ 1.000
+
+IABIN (Red Interamericana de Information sobre Biodiversidad)). These further¶
+||||||||||||||||||||||||||||||||||||=|=||||||||||||||||||||||||||||||||||||||| 0.974
+IABIN (Red Interamericana de Información sobre Biodiversidad)). These further¶
+
+records obviously indicate that many more species of this genus will be discovered in¶ 1.000
+
+this large area.¶ 1.000
+
+ACKNOWLEDGEMENTS¶ 1.000
+
+Thanks go to Marc Pollet for the invitation to study the collected samples of¶ 1.000
+
+Curculionoidea from Podocarpus National Park, Ecuador. Further thanks go to the host¶ 1.000
+
+agencies of the biodiversity inventory project RBINS (Royal Belgian Institute of¶ 1.000
+
+Natural Sciences), EDIT (European Distributed Institute of Taxonomy) and DFG RU-¶ 1.000
+
+816 (Deutsche Forschungsgemeinschaft Research Unit 816). The sampling was¶ 1.000
+
+supported by the Leopold III Fund and by the Fund for Scientific Research - Flanders.¶
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||=||||||||||| 0.988
+supported by the Leopold III Fund and by the Fund for Scientific Research — Flanders.¶
+
+REFERENCES¶ 1.000
+
+Alonso-Zarazaga, M. A. &amp; Lyal, C. H. C. 1999. A World Catalogue of Families and Genera¶
+|=====||=======|||||||||++++||===|||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.791
+ALONSO-ZARAZAGA, M. A. &____ LYAL, C. H. C. 1999. A World Catalogue of Families and Genera¶
+
+of Curculionoidea (Insecta: Coleoptera). (Excepting Scolytidae and Platypodidae). Ento -¶ 1.000
+
+mopraxis, Barcelona , 315 pp.¶
+|||||||||||||||||||+|||||||||| 0.967
+mopraxis, Barcelona_, 315 pp.¶
+
+Bello, C., &amp; Osella, G. 2008. Two new species of Howdeniola Osella (1980) from Ecuador¶
+|====|||||||++++||=====|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.857
+BELLO, C., &____ OSELLA, G. 2008. Two new species of Howdeniola Osella (1980) from Ecuador¶
+
+(Coleoptera: Curculionidae: Cossoninae) (pp. 469-476). In: Giachino P. M., (ed.). Bio-¶
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||=======|||||||||||||||||||| 0.920
+(Coleoptera: Curculionidae: Cossoninae) (pp. 469-476). In: GIACHINO P. M., (ed.). Bio-¶
+
+diversity of South America. I. Memoirs on biodiversity , vol. 1. 496 pp.¶
+||||||||||||||||||||||||||||||||||||||||||||||||||||||+|||||||||||||||||| 0.986
+diversity of South America. I. Memoirs on biodiversity_, vol. 1. 496 pp.¶
+
+Howden, A. T. 1992. Review of the New World eyeless weevils with uncinate tibiae (Coleo -¶
+|=====|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.944
+HOWDEN, A. T. 1992. Review of the New World eyeless weevils with uncinate tibiae (Coleo -¶
+
+ptera, Curculionidae; Molytinae, Cryptorhynchinae, Cossoninae). Memoirs of the Ento -¶ 1.000
+
+mological Society of Canada , 124: (162) 1-76.¶
+|||||||||||||||||||||||||||+||||||||||||||=|||| 0.957
+mological Society of Canada_, 124: (162) 1—76.¶
+
+Osella, G. 1980. Nuovi Curculionidi ciechi della regione neotropicale (Coleoptera). Fragmenta¶
+|=====|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.947
+OSELLA, G. 1980. Nuovi Curculionidi ciechi della regione neotropicale (Coleoptera). Fragmenta¶
+
+Entomologica, Roma. 15 (2): 365-422.¶ 1.000
+
+             lines  words  chars
+items ocr:     160   1526  10083 
+items grt:     164   1519  10298 
+matches:        86   1347   9530 
+edits:          79    244   1133 
+ subss:         73    107    188 
+ inserts:        1     72    365 
+ deletions:      5     65    580 
+precision:  0.5375 0.8827 0.9452 
+recall:     0.5244 0.8868 0.9254 
+accuracy:   0.5212 0.8466 0.8937 
+f-score:    0.5309 0.8847 0.9352 

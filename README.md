@@ -1,2 +1,2 @@
 # ocr-eng-bio-testfiles
-OCR English (Bio, Natur) ground truth and testfiles
+English language (nature, biology) ground truth

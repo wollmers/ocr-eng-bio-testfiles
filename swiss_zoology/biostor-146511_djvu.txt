@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____ 
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+  <head>
+    <title>Full text of "A new eyeless species of Howdeniola Osella, 1980 from Ecuador (Coleoptera, Curculionidae)"</title>
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <script src="//archive.org/includes/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=7f70231" type="text/javascript"></script>
+    <script src="//archive.org/includes/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/includes/archive.js?v=7f70231" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.min.css?v=7f70231" rel="stylesheet" type="text/css"/>
+    <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
+      </head>
+  <body class="navia ">
+    <a href="#maincontent" class="hidden-for-screen-readers">Skip to main content</a>
+
+    <!-- Wraps all page content -->
+    <div id="wrap">
+      
+      
+      <div id="nav-tophat" class="collapse">
+                
+        <div class="row toprow web" style="max-width:1000px;margin:auto;">
+          <div class="col-xs-12">
+            <div class="wayback-txt">
+              Search the history of over 445 billion              pages on the Internet.
+            </div>
+            <div class="roundbox7 wayback-main">
+              <div class="row">
+                <div class="col-sm-6" style="padding-left:0; padding-right:0;">
+                  <a style="padding-bottom:0" href="https://archive.org/web/"><img src="https://archive.org/images/WaybackLogoSmall.png" alt="Wayback Machine"/></a>
+                </div>
+                <div class="col-sm-6" style="padding-top:13px;">
+                  <form style="position:relative;" onsubmit="if(''==$('#nav-wb-url').val()){$('#nav-wb-url').attr('placeholder', 'enter a web address')} else {document.location.href='//web.archive.org/web/*/'+$('#nav-wb-url').val();}return false;">
+                    <span class="iconochive-search" aria-hidden="true"></span><span class="sr-only">search</span>                    <label for="nav-wb-url" class="sr-only">Search the Wayback Machine</label>
+                    <input id="nav-wb-url" class="form-control input-sm roundbox20" type="text" placeholder="http://www." name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()"/>
+                  </form>
+                </div>
+              </div><!--/.row-->
+            </div>
+          </div>
+        </div><!--./row-->
+        
+        
+                        
+        <div class="row toprow fivecolumns texts">
+          
+                    <div class="col-sm-2 col-xs-7 col-sm-push-4">
+            
+            <div class="linx">
+              <h5>Featured</h5>
+              <a href="https://archive.org/details/texts"><span class="iconochive-texts"></span> All Texts</a>
+              <a href="https://archive.org/search.php?query=mediatype:texts&sort=-publicdate"><span class="iconochive-latest"></span> This Just In</a>
+                              <a href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a>                              <a href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a>                              <a href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a>                              <a href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a>                              <a href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a>                          </div>
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                        <div class="widgets">
+              <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/texts"><img class=" clipW clipH" src="https://archive.org/services/img/texts" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/texts">eBooks &amp; Texts</a></center>            </div><!--/.widgets-->
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-7 col-sm-push-2">
+            
+            <div class="linx">
+            <h5>Top</h5>
+                              <a href="https://archive.org/details/americana" title="American Libraries">American Libraries</a>                              <a href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                              <a href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a>                              <a href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a>                              <a href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                              <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                              <a href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a>                          </div>
+
+                        
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                        <div class="widgets">
+              <center>
+<a href="https://openlibrary.org"><img src="https://archive.org/images/widgetOL.png" class="img-responsive" style="margin-bottom:15px"/><b>Open Library</b></a></center>
+            </div><!--/.widgets-->
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-7">
+            
+            <div class="linx">
+            <h5 class="hidden-xs">&nbsp;</h5>
+                              <a href="https://archive.org/details/gwulibraries" title="George Washington University Libraries">George Washington University Libraries</a>                          </div>
+
+                        
+                        
+          </div><!--/.col-sm-2-->
+          
+        </div><!--/.row-->
+        
+                        
+        <div class="row toprow fivecolumns movies">
+          
+                    <div class="col-sm-2 col-xs-7 col-sm-push-4">
+            
+            <div class="linx">
+              <h5>Featured</h5>
+              <a href="https://archive.org/details/movies"><span class="iconochive-movies"></span> All Video</a>
+              <a href="https://archive.org/search.php?query=mediatype:movies&sort=-publicdate"><span class="iconochive-latest"></span> This Just In</a>
+                              <a href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a>                              <a href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a>                              <a href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a>                              <a href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a>                          </div>
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                        <div class="widgets">
+              <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/tv"><img class=" clipW clipH" src="https://archive.org/services/img/tv" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/tv">TV News</a></center>            </div><!--/.widgets-->
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-7 col-sm-push-2">
+            
+            <div class="linx">
+            <h5>Top</h5>
+                              <a href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation & Cartoons</a>                              <a href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts & Music</a>                              <a href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a>                              <a href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers & Technology</a>                              <a href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural & Academic Films</a>                              <a href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a>                              <a href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a>                          </div>
+
+                        
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                        <div class="widgets">
+              <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/911"><img class=" clipW" src="https://archive.org/services/img/911" style="height:135px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/911">Understanding 9/11</a></center>            </div><!--/.widgets-->
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-7">
+            
+            <div class="linx">
+            <h5 class="hidden-xs">&nbsp;</h5>
+                              <a href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News & Public Affairs</a>                              <a href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                              <a href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a>                              <a href="https://archive.org/details/television" title="Television">Television</a>                              <a href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a>                              <a href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a>                              <a href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a>                          </div>
+
+                        
+                        
+          </div><!--/.col-sm-2-->
+          
+        </div><!--/.row-->
+        
+                        
+        <div class="row toprow fivecolumns audio">
+          
+                    <div class="col-sm-2 col-xs-7 col-sm-push-4">
+            
+            <div class="linx">
+              <h5>Featured</h5>
+              <a href="https://archive.org/details/audio"><span class="iconochive-audio"></span> All Audio</a>
+              <a href="https://archive.org/search.php?query=mediatype:audio&sort=-publicdate"><span class="iconochive-latest"></span> This Just In</a>
+                              <a href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a>                              <a href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a>                              <a href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a>                              <a href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a>                          </div>
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                        <div class="widgets">
+              <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/etree"><img class=" clipW clipH" src="https://archive.org/services/img/etree" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/etree">Live Music Archive</a></center>            </div><!--/.widgets-->
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-7 col-sm-push-2">
+            
+            <div class="linx">
+            <h5>Top</h5>
+                              <a href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books & Poetry</a>                              <a href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a>                              <a href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers & Technology</a>                              <a href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts & Culture</a>                              <a href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News & Public Affairs</a>                              <a href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a>                              <a href="https://archive.org/details/audio_podcast" title="Podcasts">Podcasts</a>                          </div>
+
+                        
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                        <div class="widgets">
+              <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/librivoxaudio"><img class=" clipW clipH" src="https://archive.org/services/img/librivoxaudio" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center>            </div><!--/.widgets-->
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-7">
+            
+            <div class="linx">
+            <h5 class="hidden-xs">&nbsp;</h5>
+                              <a href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a>                              <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                              <a href="https://archive.org/details/directorsnotes" title="Directors Notes">Directors Notes</a>                              <a href="https://archive.org/details/CatullusBand" title="Catullus">Catullus</a>                          </div>
+
+                        
+                        
+          </div><!--/.col-sm-2-->
+          
+        </div><!--/.row-->
+        
+                        
+        <div class="row toprow fivecolumns software">
+          
+                    <div class="col-sm-2 col-xs-7 col-sm-push-4">
+            
+            <div class="linx">
+              <h5>Featured</h5>
+              <a href="https://archive.org/details/software"><span class="iconochive-software"></span> All Software</a>
+              <a href="https://archive.org/search.php?query=mediatype:software&sort=-publicdate"><span class="iconochive-latest"></span> This Just In</a>
+                              <a href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a>                              <a href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a>                              <a href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a>                              <a href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a>                              <a href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a>                          </div>
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                        <div class="widgets">
+              <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/internetarcade"><img class=" clipW" src="https://archive.org/services/img/internetarcade" style="height:80px;position:relative;left:-50px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/internetarcade">Internet Arcade</a></center>            </div><!--/.widgets-->
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-7 col-sm-push-2">
+            
+            <div class="linx">
+            <h5>&nbsp;</h5>
+                          </div>
+
+                        
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                        <div class="widgets">
+              <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/consolelivingroom"><img class=" clipW" src="https://archive.org/services/img/consolelivingroom" style="height:127px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center>            </div><!--/.widgets-->
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-7">
+            
+            <div class="linx">
+            <h5 class="hidden-xs">&nbsp;</h5>
+                          </div>
+
+                        
+                        
+          </div><!--/.col-sm-2-->
+          
+        </div><!--/.row-->
+        
+                        
+        <div class="row toprow fivecolumns image">
+          
+                    <div class="col-sm-2 col-xs-7 col-sm-push-4">
+            
+            <div class="linx">
+              <h5>Featured</h5>
+              <a href="https://archive.org/details/image"><span class="iconochive-image"></span> All Image</a>
+              <a href="https://archive.org/search.php?query=mediatype:image&sort=-publicdate"><span class="iconochive-latest"></span> This Just In</a>
+                              <a href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a>                              <a href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a>                              <a href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a>                              <a href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a>                          </div>
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                        <div class="widgets">
+              <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/metropolitanmuseumofart-gallery"><img class=" clipW clipH" src="https://archive.org/services/img/metropolitanmuseumofart-gallery" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center>            </div><!--/.widgets-->
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-7 col-sm-push-2">
+            
+            <div class="linx">
+            <h5>Top</h5>
+                              <a href="https://archive.org/details/nasa">NASA Images</a>                              <a href="https://archive.org/details/solarsystemcollection">Solar System Collection</a>                              <a href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a>                          </div>
+
+                        
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                        <div class="widgets">
+              <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/brooklynmuseum"><img class=" clipW clipH" src="https://archive.org/services/img/brooklynmuseum" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center>            </div><!--/.widgets-->
+
+                        
+          </div><!--/.col-sm-2-->
+                    <div class="col-sm-2 col-xs-7">
+            
+            <div class="linx">
+            <h5 class="hidden-xs">&nbsp;</h5>
+                          </div>
+
+                        
+                        
+          </div><!--/.col-sm-2-->
+          
+        </div><!--/.row-->
+        
+              </div><!--/#nav-tophat-->
+
+
+      
+      <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+        <div id="nav-tophat-helper" class="hidden-xs"></div>
+        <ul class="nav navbar-nav">
+          <form id="nav-search-in" method="post" role="search" action="https://archive.org/searchresults.php" target="_top">
+            <label for="search-bar-2" class="sr-only">Search the Archive</label>
+            <input id="search-bar-2" placeholder="Universal Access to Knowledge" type="text" autofocus="autofocus" name="search" value=""/>
+            <input type="submit" value="Search"/>
+            <button id="nav-search-x"  type="button" class="close ghost" title="cancel search" alt="cancel search"><span class="sr-only">Cancel Search</span><span aria-hidden="true">&times;</span></button>
+          </form>
+          
+                      <li class="dropdown dropdown-ia pull-left">
+              <a title="Web" class="navia-link web" data-top-kind="web" href="https://archive.org/web/" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-web" aria-hidden="true"></span><span class="sr-only">web</span></a>
+            </li>
+                      <li class="dropdown dropdown-ia pull-left">
+              <a title="Texts" class="navia-link texts" data-top-kind="texts" href="https://archive.org/details/texts" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-texts" aria-hidden="true"></span><span class="sr-only">texts</span></a>
+            </li>
+                      <li class="dropdown dropdown-ia pull-left">
+              <a title="Video" class="navia-link movies" data-top-kind="movies" href="https://archive.org/details/movies" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-movies" aria-hidden="true"></span><span class="sr-only">movies</span></a>
+            </li>
+                      <li class="dropdown dropdown-ia pull-left">
+              <a title="Audio" class="navia-link audio" data-top-kind="audio" href="https://archive.org/details/audio" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-audio" aria-hidden="true"></span><span class="sr-only">audio</span></a>
+            </li>
+                      <li class="dropdown dropdown-ia pull-left">
+              <a title="Software" class="navia-link software" data-top-kind="software" href="https://archive.org/details/software" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-software" aria-hidden="true"></span><span class="sr-only">software</span></a>
+            </li>
+                      <li class="dropdown dropdown-ia pull-left rightmost">
+              <a title="Image" class="navia-link image" data-top-kind="image" href="https://archive.org/details/image" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-image" aria-hidden="true"></span><span class="sr-only">image</span></a>
+            </li>
+                        
+          <li class="navbar-brand-li"><a class="navbar-brand" href="https://archive.org/" target="_top"><span class="iconochive-logo"></span></a></li>
+            
+          <li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+            <div class="container-fluid">
+              <div class="navbar-header">                  
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-hamburger-menu" aria-expanded="false">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <div class="navbar-collapse collapse" id="nav-hamburger-menu" aria-expanded="false">
+                  <ul class="nav navbar-nav">
+                    <li><a target="_top" href="https://archive.org/about/">ABOUT</a></li>
+                    <li><a target="_top" href="https://archive.org/about/contact.php">CONTACT</a></li>
+                    <li><a target="_top" href="//blog.archive.org">BLOG</a></li>
+                    <li><a target="_top" href="https://archive.org/projects">PROJECTS</a></li>
+                    <!-- <li><a target="_top" href="#coming-soon">SERVICES</a></li> -->
+                    <li><a target="_top" href="https://archive.org/donate" class="donate"><span class="iconochive-heart"></span>&nbsp;DONATE</a></li>
+                    <li><a target="_top" href="https://archive.org/help">HELP</a></li>
+                    <li><a target="_top" href="https://archive.org/about/terms.php">TERMS</a></li>
+                    <li><a target="_top" href="https://archive.org/about/jobs.php">JOBS</a></li>
+                    <li><a target="_top" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+                    <li><a target="_top" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+                  </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+              </div>
+            </div>
+          </li>
+          
+
+              
+                          
+              
+          <li class="dropdown dropdown-ia pull-right">
+                          <a href="https://archive.org/details/@wollmersdorfer" class="mypic" _target="top" onclick="$('.navbar .dropdown-menu').toggle(); return false"><img  src="https://archive.org/services/img/@wollmersdorfer" onload="AJS.mypic(this)"/><span class="hidden-xs-span">wollmersd&hellip;</span></a>
+              <ul class="dropdown-menu mydrop" role="menu">
+                                  <li><a href="https://archive.org/details/@wollmersdorfer" style="margin-top:5px;"><span class="iconochive-logo"></span> My Library</a></li>
+                  <li><a href="https://archive.org/details/fav-wollmersdorfer"><span class="iconochive-favorite"></span> My Favorites</a></li>
+                  <li><a href="https://archive.org/details/@wollmersdorfer#collections"><span class="iconochive-list-bulleted"></span> My Collections</a></li>
+                                <li><a class="logout" href="https://archive.org/account/logout.php">LOGOUT</a></li>
+                  
+              </ul>
+                      </li>
+
+
+          <li class="dropdown dropdown-ia pull-right">
+            <a href="https://archive.org/create" style="padding-left:0" _target="top" data-toggle="tooltip" data-placement="bottom" title="Upload"><span class="iconochive-upload"></span></a>
+          </li>
+              
+                      <li id="nav-search" class="dropdown dropdown-ia pull-right leftmost"><a href="https://archive.org/search.php" title="Search" data-toggle="tooltip" data-placement="bottom" onclick="return AJS.search(this)"><span class="iconochive-search" aria-hidden="true"></span><span class="sr-only">search</span></a></li>
+          
+                  </ul>
+      </div><!--/.navbar-->
+
+      <script> AJS.nav_tophat_setup(); </script>
+
+      
+      
+
+
+      <!-- Begin page content -->
+      <div class="container container-ia">
+        <a name="maincontent" id="maincontent"></a>
+        
+                <h1>
+        Full text of "<a href="/details/biostor-146511">A new eyeless species of Howdeniola Osella, 1980 from Ecuador (Coleoptera, Curculionidae)</a>"
+      </h1>
+      <h2 class="pull-right">
+        <small><a href="/details/biostor-146511">See other formats</a></small>
+      </h2>
+      <br class="clearfix" clear="right"/>
+    <pre>Revue suisse de Zoologie 1 19 (2): 189-193; juin 2012 
+
+
+
+A new eyeless species of Howdeniola Osella, 1980 from Ecuador 
+(Coleoptera, Curculionidae) 
+
+Christoph GERM ANN 
+
+Natur-Museum Luzern, Kasemenplatz 6, CH-6003 Luzern and Naturhistorisches 
+Museum der Burgergemeinde Bern, Bemastrasse 15, CH-3005 Bern. 
+
+E-mail : germann. chri stoph@gmail.com 
+
+A new eyeless species of Howdeniola Osella, 1980 from Ecuador 
+(Coleoptera, Curculionidae). - Howdeniola polled sp. nov. is described 
+from southern Ecuador. The fifth species of the Neotropic Howdeniola 
+Osella, 1980 represents the southernmost record of the genus, and the first 
+with no visible eye remnants. The single male specimen was caught in a pan 
+trap in the Podocarpus National Park at 2000 m a. s. 1. in a lower montane 
+rainforest. 
+
+Keywords: Cossoninae - eyeless species - taxonomy - South America - 
+Podocarpus National Park - Ecuador. 
+
+INTRODUCTION 
+
+The genus Howdeniola Osella, 1980 was originally placed into Molytinae, later 
+Howden (1992) moved it to Cossoninae. Alonso-Zarazaga &amp; Lyal (1999) listed 
+Howdeniola in the tribe Dryotribini Le Conte, 1876 together with the supposed closely 
+related Micromimus Wollaston, 1873. 
+
+Howdeniola comprises four hitherto described species, all with vestigial eyes: 
+H. nitidipennis Osella, 1980 and H. sulcipennis Osella, 1980 - both from Colombia - 
+and H. margheritae Bello &amp; Osella, 2008 and H. onorei Bello &amp; Osella, 2008 - both 
+from northern Ecuador - (Osella 1980, Bello &amp; Osella 2008). 
+
+Within a biodiversity sampling project in Podocarpus National Park in Ecuador 
+a single male specimen of an eyeless weevil was caught. This specimen shows the 
+typical characters of Howdeniola which are modified and summarized after Osella 
+(1980) and Howden (1992) as follows: (I) fore margin of epistoma overhanging mouth- 
+parts, (II) impunctate head abruptly different from rostrum, (III) eyes reduced or 
+lacking, (IV) scrobe latero- ventral, reaching to or near base of rostrum, (V) seven 
+articulated funiculus of the antenna, (VI), conspicuously elongated tibial uncus at outer 
+angle, (VII) scutellum dorsally not visible, (VIII) basal margin of elytra elevated, (IX) 
+shiny integument of the body. 
+
+In the following Howdeniola polled sp. nov. from southern Ecuador is 
+described. 
+
+MATERIAL AND METHODS 
+
+The male genital structures were extracted and dry glued on the mounting card. 
+The genital structures were photographed beneath glycerol with a 5-megapixel digital 
+
+
+
+Manuscript accepted 04.04.20 12 
+
+
+
+190 
+
+
+
+C. GERMANN 
+
+
+
+camera (Leica DFC425) under a stereomicroscope (Leica MZ16). The same camera 
+was used for the habitus pictures. The pictures are composites processed using the soft- 
+ware Imagic Image Access (Version 10) and then retouched using Adobe Photoshop 
+version 10.0.1 (Adobe Systems Incorporated). The body size was measured dorsally 
+from the apex of the elytra to the base of the rostrum. 
+
+Label data is reported literally, labels are separated by double slash (//), and own 
+remarks are added in rectangular brackets. 
+
+TAXONOMIC PART 
+
+Howdeniola polled sp. nov. Figs 1-6 
+
+Holotype: 6 ; (EC) Zamora Chinchipe: San Francisco, Reserva Biologica // San 
+Francisco, all trails, 2000m [m a.s.l.], 03°58'30"S 79°04 , 25”W, // 25/02/2009-3/03/2009 (PT) 
+[pan trap], leg. Marc Pollet &amp; Anja De // Braekeleer, sorted by Marc Pollet - sample code: 
+EC/2009-3 6/MP&amp;ADB-01 8 // [red label] Holotype Howdeniola polled sp. nov. des. C. Germann 
+2012. 
+
+REMARKS: The specimen was caught in a 5% formalin (= 2% formaldehyde) 
+fixative solution with detergent in the traps, and then stored in 70% alcohol. The 
+specimen was treated with Pepsin solution for preparation of the genital organs. The 
+holotype specimen is deposited in the RBINS (Royal Belgian Institute of Natural 
+Sciences). 
+
+Description: Habitus : Figs 1-2. 
+
+Size : 1.96 mm 
+
+Body colour, auburn, glossy. 
+
+Head, rostrum and antennae : Head (Fig. 3) globose, impunctate and glabrous, 
+abruptly different from rostrum. Eyes lacking. Rostrum about four times longer than 
+wide, elliptical in cross-section, dorsally sparsely punctate, epistoma glabrous and 
+impunctate, fore margin hanging over mouthparts. Scrobes latero- ventral, reaching to 
+the base. Antennal insertion bulged in dorsal view, antennae inserted at beginning of 
+apical third of rostrum. Antennal scape gradually enlarged, as long as funiculus. 
+Funiculus (Fig. 4) consisting of seven segments of following ratios (L/B): 1 st : 1.25; 
+2 nd : 0.9; 3 rd : 0.6; 4 th to 6 th : 0.5; 7 th : 2.0. Club oval, circular in cross-section, densely 
+clothed with long white setae, and sitting in the bowl-like 7 th segment. 
+
+Pronotum : Index (L/B): 1.53. Longer than wide, strongly constricted after the 
+first third, widest after the middle. Surface deeply punctate with interspaces of about 
+the size of punctation. Short bright hairs arise from punctation. 
+
+Elytra: Index (L/B): 1.76. Base narrower than pronotum, oval, lacking humeral 
+callus (apterous), widest before the middle, tapered towards base and conical towards 
+apex. Eight deeply punctate striae, intervals including suture narrow, elevated and 
+costate with minute adherent hairs. Intervals (excluding suture) 3, 5, 6 and 7 are in- 
+complete, not reaching the elytral apex. Five stemites, of which 3 and 4 are equal, 
+stemite 5 rounded towards apex, deeply punctate with bowed hairs and slightly bulged 
+in the middle. 
+
+Legs: Coxae separated from each other as follows: procoxae by less than !4 of 
+their diameter, mesocoxae by Vi and metacoxae by two times of their diameter. Femora 
+unarmed, punctate, short adherent bright hairs arise. Tibiae punctate with short adher- 
+
+
+
+HOWDENIOLA POLLETI SP. NOV. 
+
+
+
+191 
+
+
+
+
+
+Figs 1-2 
+
+Howdeniola polled sp. nov. (holotype). Habitus in lateral view (1) and dorsal view (2). 
+
+
+
+ent bright hairs. Inner side of tibiae set with raised bright hairs, fore tibiae with densely 
+standing raised bristles from the middle on. Apex of tibiae with long curved uncus at 
+outer apical angle, and short tooth at inner angle. Tarsi with three well visible tarsal 
+segments, fourth very short. Claw segment as long as first tarsal segment, claws minute 
+and simple. 
+
+Aedeagus (Figs 5-6): Apex of aedeagus asymmetrically pointed, ventrally hook- 
+like bowed. Median lobe containing a tubular sclerite diverging towards apophyses. 
+
+Differential Diagnosis: Howdeniola polled sp. nov. differs from all other 
+four above-mentioned members of the genus by the slender elytra with narrow and 
+costate intervals, the strongly constricted pronotum before its fore margin, and the 
+conspicuously pointed apex of the aedeagus. 
+
+
+
+
+192 
+
+
+
+C. GERM ANN 
+
+
+
+
+
+Howdeniola polled sp. nov. (holotype). (3) Head and anterior portion of pronotum in lateral 
+view. (4) Antenna. (Illustrations by C. Hochholdinger). 
+
+Key of the species of Howdeniola 
+Modified after Bello &amp; Osella (2008: 473) 
+
+1 Elytra smooth, shiny. Pronotum with small and widely space punctation. 
+
+Colombia (Quindio) nitidipennis Osella, 1980 
+
+Elytra with punctate striae not or faintly shiny. Pronotum with dense 
+punctation 2 
+
+2 Elytra globose, strongly striate. Pronotum rounded laterally. Colombia 
+
+(Saladido) sulcipennis Osella (1980) 
+
+Elytra less globose. Pronotum cylindrical 3 
+
+3 Intervals on Elytra flat, smooth. Aedeagus widened with a cordiform 
+
+apex. Ecuador (Pichincha, Cerro Blanco) onorei Bello &amp; Osella 2008 
+
+Intervals slightly cariniform. Aedeagus elongate pointed 4 
+
+4 Antennae inserted at apical fifth of rostrum. Vestigial eyes. Pronotum 
+constricted before fore margin. Elytra more oval, with long raised setae. 
+
+Ecuador (Pichincha, Otonga) margheritae Bello &amp; Osella 2008 
+
+Antennae inserted at beginning of apical third of rostrum. Eyes lacking. 
+Pronotum strongly constricted before fore margin. Elytra more elongate, 
+
+with minute adherent hairs. Ecuador (Zamora Chinchipe, San Francisco) 
+polled sp. nov. 
+
+DERIVATIO NOMINIS: The new species Howdeniola polled sp. nov. is named 
+after its collector, dear colleague and renowned dipterist Dr. Marc Pollet (Brussels, 
+Belgium). 
+
+BlONOMY: Howdeniola polled sp. nov. was collected in pan traps, these were 
+dug into the soil until their upper rim. The biome at the altitude of 2000 m a. s. 1. can 
+be considered as lower montane rainforest (written communication M. Pollet). 
+
+Distribution*. Howdeniola polled sp. nov. represents the southernmost find of 
+the genus. Furthermore an undescribed Howdeniola was recorded from Costa Rica 
+
+
+
+HOWDENIOLA POLLETI SP. NOV. 
+
+
+
+193 
+
+
+
+
+0.25 mm 
+
+
+
+
+Figs 5-6 
+
+Howdeniola polled sp. nov. (holotype). Aedeagus in lateral view (5) and ventral view (6). 
+
+
+
+(Rancho Quemado, Osa, Puntarenas, leg. F.A. Quesada, det. R. Anderson; record from 
+IABIN (Red Interamericana de Information sobre Biodiversidad)). These further 
+records obviously indicate that many more species of this genus will be discovered in 
+this large area. 
+
+ACKNOWLEDGEMENTS 
+
+Thanks go to Marc Pollet for the invitation to study the collected samples of 
+Curculionoidea from Podocarpus National Park, Ecuador. Further thanks go to the host 
+agencies of the biodiversity inventory project RBINS (Royal Belgian Institute of 
+Natural Sciences), EDIT (European Distributed Institute of Taxonomy) and DFG RU- 
+816 (Deutsche Forschungsgemeinschaft Research Unit 816). The sampling was 
+supported by the Leopold III Fund and by the Fund for Scientific Research - Flanders. 
+
+REFERENCES 
+
+Alonso-Zarazaga, M. A. &amp; Lyal, C. H. C. 1999. A World Catalogue of Families and Genera 
+of Curculionoidea (Insecta: Coleoptera). (Excepting Scolytidae and Platypodidae). Ento - 
+mopraxis, Barcelona , 315 pp. 
+
+Bello, C., &amp; Osella, G. 2008. Two new species of Howdeniola Osella (1980) from Ecuador 
+(Coleoptera: Curculionidae: Cossoninae) (pp. 469-476). In: Giachino P. M., (ed.). Bio- 
+diversity of South America. I. Memoirs on biodiversity , vol. 1. 496 pp. 
+
+Howden, A. T. 1992. Review of the New World eyeless weevils with uncinate tibiae (Coleo - 
+ptera, Curculionidae; Molytinae, Cryptorhynchinae, Cossoninae). Memoirs of the Ento - 
+mological Society of Canada , 124: (162) 1-76. 
+
+Osella, G. 1980. Nuovi Curculionidi ciechi della regione neotropicale (Coleoptera). Fragmenta 
+Entomologica, Roma. 15 (2): 365-422. 
+
+
+
+</pre>      </div><!--/.container-->
+    </div><!--/#wrap-->
+        
+    <!-- Timing ...
+     rendered on: www15.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:55:require_once
+                                             |setup.php:316:log
+  0.0016   0.0016      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:1699:main
+                                             |download.php:641:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:192:get_json_obj
+                                             |Metadata.inc:1289:log
+  0.0061   0.0044      redis_read start   var/cache/petabox/petabox/www/sf/download.php:1699:main
+                                             |download.php:641:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:192:get_json_obj
+                                             |Metadata.inc:1387:log
+  0.0111   0.0050     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:1699:main
+                                             |download.php:641:getItem
+                                             |common/Item.inc:61:parseMetadata
+                                             |Item.inc:92:get_obj
+                                             |Metadata.inc:192:get_json_obj
+                                             |Metadata.inc:1392:log
+  0.0133   0.0022   begin session_start   var/cache/petabox/petabox/www/sf/download.php:1699:main
+                                             |download.php:874:stream
+                                             |download.php:1321:head
+                                             |common/Nav.inc:58:__construct
+                                             |Nav.inc:134:sts
+                                             |setup.php:148:status
+                                             |Auth.inc:494:session_start
+                                             |Cookies.inc:61:log
+  0.0135   0.0003    done session_start   var/cache/petabox/petabox/www/sf/download.php:1699:main
+                                             |download.php:874:stream
+                                             |download.php:1321:head
+                                             |common/Nav.inc:58:__construct
+                                             |Nav.inc:134:sts
+                                             |setup.php:148:status
+                                             |Auth.inc:494:session_start
+                                             |Cookies.inc:67:log
+  0.0142   0.0007      start db connect   var/cache/petabox/petabox/www/sf/download.php:1699:main
+                                             |download.php:874:stream
+                                             |download.php:1321:head
+                                             |common/Nav.inc:58:__construct
+                                             |Nav.inc:134:sts
+                                             |setup.php:148:status
+                                             |Auth.inc:541:q1
+                                             |DB.inc:341:call_user_func_array
+                                             |./unknown:unknown:q
+                                             |/var/cache/petabox/petabox/www/common/DB.inc:325:execute
+                                             |DB.inc:1251:query
+                                             |DB.inc:141:query0
+                                             |DB.inc:171:ping
+                                             |DB.inc:813:connect
+                                             |DB.inc:110:conn
+                                             |DB.inc:943:log
+  0.0259   0.0117                got db   var/cache/petabox/petabox/www/sf/download.php:1699:main
+                                             |download.php:874:stream
+                                             |download.php:1321:head
+                                             |common/Nav.inc:58:__construct
+                                             |Nav.inc:134:sts
+                                             |setup.php:148:status
+                                             |Auth.inc:541:q1
+                                             |DB.inc:341:call_user_func_array
+                                             |./unknown:unknown:q
+                                             |/var/cache/petabox/petabox/www/common/DB.inc:325:execute
+                                             |DB.inc:1251:query
+                                             |DB.inc:141:query0
+                                             |DB.inc:171:ping
+                                             |DB.inc:813:connect
+                                             |DB.inc:110:conn
+                                             |DB.inc:989:log
+  0.0326   0.0067   begin session_start   var/cache/petabox/petabox/www/sf/download.php:1699:main
+                                             |download.php:874:stream
+                                             |download.php:1321:head
+                                             |common/Nav.inc:58:__construct
+                                             |Nav.inc:138:session_start
+                                             |Cookies.inc:61:log
+  0.0327   0.0001    done session_start   var/cache/petabox/petabox/www/sf/download.php:1699:main
+                                             |download.php:874:stream
+                                             |download.php:1321:head
+                                             |common/Nav.inc:58:__construct
+                                             |Nav.inc:138:session_start
+                                             |Cookies.inc:67:log
+  0.1260   0.0933              bug dump   var/cache/petabox/petabox/www/sf/download.php:1699:main
+                                             |download.php:874:stream
+                                             |download.php:1347:footer
+                                             |common/setup.php:154:footer
+                                             |Nav.inc:2018:dump
+                                             |Bug.inc:120:log
+    -->
+    <script>
+      if (typeof(AJS)!='undefined') AJS.footer();
+    </script>
+    <script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=126;
+    vs[i]['server_name']="www15.us.archive.org";
+    vs[i]['service']='ao_2';
+    vs[i]['ui3']="1438526135";
+          vs[i]['v2time']="41";
+              vs[i]['logged_in']=1;
+              vs[i]['visited']="20151113";
+      }
+  if(window.flights){
+    window.flights.init();
+  }
+}
+</script>
+      </div>
+  </body>
+</html>
+    

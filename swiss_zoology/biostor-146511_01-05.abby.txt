@@ -24,14 +24,14 @@ Podocarpus National Park - Ecuador.
 INTRODUCTION
 
 The genus Howdeniola Osella, 1980 was originally placed into Molytinae, later
-Howden (1992) moved it to Cossoninae. Alonso-Zarazaga &amp; Lyal (1999) listed
+Howden (1992) moved it to Cossoninae. Alonso-Zarazaga & Lyal (1999) listed
 Howdeniola in the tribe Dryotribini Le Conte, 1876 together with the supposed closely
 related Micromimus Wollaston, 1873.
 
 Howdeniola comprises four hitherto described species, all with vestigial eyes:
 H. nitidipennis Osella, 1980 and H. sulcipennis Osella, 1980 - both from Colombia -
-and H. margheritae Bello &amp; Osella, 2008 and H. onorei Bello &amp; Osella, 2008 - both
-from northern Ecuador - (Osella 1980, Bello &amp; Osella 2008).
+and H. margheritae Bello & Osella, 2008 and H. onorei Bello & Osella, 2008 - both
+from northern Ecuador - (Osella 1980, Bello & Osella 2008).
 
 Within a biodiversity sampling project in Podocarpus National Park in Ecuador
 a single male specimen of an eyeless weevil was caught. This specimen shows the
@@ -71,8 +71,8 @@ Howdeniola polled sp. nov. Figs 1-6
 
 Holotype: 6 ; (EC) Zamora Chinchipe: San Francisco, Reserva Biologica // San
 Francisco, all trails, 2000m [m a.s.l.], 03°58'30"S 79°04 , 25”W, // 25/02/2009-3/03/2009 (PT)
-[pan trap], leg. Marc Pollet &amp; Anja De // Braekeleer, sorted by Marc Pollet - sample code:
-EC/2009-3 6/MP&amp;ADB-01 8 // [red label] Holotype Howdeniola polled sp. nov. des. C. Germann
+[pan trap], leg. Marc Pollet & Anja De // Braekeleer, sorted by Marc Pollet - sample code:
+EC/2009-3 6/MP&ADB-01 8 // [red label] Holotype Howdeniola polled sp. nov. des. C. Germann
 2012.
 
 REMARKS: The specimen was caught in a 5% formalin (= 2% formaldehyde)
@@ -141,7 +141,7 @@ Howdeniola polled sp. nov. (holotype). (3) Head and anterior portion of pronotum
 view. (4) Antenna. (Illustrations by C. Hochholdinger).
 
 Key of the species of Howdeniola
-Modified after Bello &amp; Osella (2008: 473)
+Modified after Bello & Osella (2008: 473)
 
 1 Elytra smooth, shiny. Pronotum with small and widely space punctation.
 
@@ -158,14 +158,14 @@ Elytra less globose. Pronotum cylindrical 3
 
 3 Intervals on Elytra flat, smooth. Aedeagus widened with a cordiform
 
-apex. Ecuador (Pichincha, Cerro Blanco) onorei Bello &amp; Osella 2008
+apex. Ecuador (Pichincha, Cerro Blanco) onorei Bello & Osella 2008
 
 Intervals slightly cariniform. Aedeagus elongate pointed 4
 
 4 Antennae inserted at apical fifth of rostrum. Vestigial eyes. Pronotum
 constricted before fore margin. Elytra more oval, with long raised setae.
 
-Ecuador (Pichincha, Otonga) margheritae Bello &amp; Osella 2008
+Ecuador (Pichincha, Otonga) margheritae Bello & Osella 2008
 
 Antennae inserted at beginning of apical third of rostrum. Eyes lacking.
 Pronotum strongly constricted before fore margin. Elytra more elongate,
@@ -209,11 +209,11 @@ supported by the Leopold III Fund and by the Fund for Scientific Research - Flan
 
 REFERENCES
 
-Alonso-Zarazaga, M. A. &amp; Lyal, C. H. C. 1999. A World Catalogue of Families and Genera
+Alonso-Zarazaga, M. A. & Lyal, C. H. C. 1999. A World Catalogue of Families and Genera
 of Curculionoidea (Insecta: Coleoptera). (Excepting Scolytidae and Platypodidae). Ento -
 mopraxis, Barcelona , 315 pp.
 
-Bello, C., &amp; Osella, G. 2008. Two new species of Howdeniola Osella (1980) from Ecuador
+Bello, C., & Osella, G. 2008. Two new species of Howdeniola Osella (1980) from Ecuador
 (Coleoptera: Curculionidae: Cossoninae) (pp. 469-476). In: Giachino P. M., (ed.). Bio-
 diversity of South America. I. Memoirs on biodiversity , vol. 1. 496 pp.
 

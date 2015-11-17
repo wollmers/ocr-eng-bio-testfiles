@@ -1,6 +1,6 @@
-../../ocr-measures/ocr_compare.pl Version 0.01
+../../ocr-measures/ocr_compare.pl Version 0.02
 
-comparing OCR text output against ground truth (grt):
+Compare OCR text output against ground truth (GRT):
 File 1 (OCR): biostor-146511_01-05.tess.txt
 File 2 (GRT): biostor-146511_01-05.corr.txt
 
@@ -132,7 +132,9 @@ Francisco, all trails, 2000m [m a.s.l.], 03°58'30"S 79°04'25"W, // 25/02/2009-
 
 [pan trap], leg. Marc Pollet & Anja De // Braekeleer, sorted by Marc Pollet - sample code:¶ 1.000
 
-EC/2009-36/MP&ADB-018 // [red label] Holotype Howdeniola_polleti sp. nov. des. C. Germann¶ 0.989
+EC/2009-36/MP&ADB-018 // [red label] Holotype Howdeniola_polleti sp. nov. des. C. Germann¶
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||-||||||||||||||||||||||||||||||||| 0.989
+EC/2009-36/MP&ADB-018 // [red label] Holotype Howdeniola polleti sp. nov. des. C. Germann¶
 
 2012.¶ 1.000
 
@@ -206,11 +208,15 @@ unarmed, punctate, short adherent bright hairs arise. Tibiae punctate with short
 
 HOWDENIOLA POLLETI SP. NOV. 191¶ 1.000
 
-__ 0.000
+__
+-- 0.000
+1¶
 
 0.5 mm¶ 1.000
 
-__ 0.000
+__
+-- 0.000
+2¶
 
 FIGS 1-2¶ 1.000
 
@@ -248,9 +254,13 @@ conspicuously pointed apex of the aedeagus.¶ 1.000
 ||||=|||||||||| 0.933
 192 C. GERMANN¶
 
-_______________ 0.000
+_______________
+=-------=------ 0.000
+0.25 mm 0.1 mm¶
 
-____ 0.000
+____
+---- 0.000
+3 4¶
 
 FIGS 3-4¶ 1.000
 
@@ -260,9 +270,9 @@ view. (4) Antenna. (Illustrations by C. Hochholdinger).¶ 1.000
 
 KEY OF THE SPECIES OF HOWDENIOLA¶ 1.000
 
-Modiﬁ_ed after Bellé & Osella (2008: 473)¶
-||||=-|||||||||||||=|||||||||||||||||||||| 0.929
-Modified after Belló & Osella (2008: 473)¶
+Mod__iﬁed after Bellé & Osella (2008: 473)¶
+|||--|+|||||||||||||=|||||||||||||||||||||| 0.907
+Modifi_ed after Belló & Osella (2008: 473)¶
 
 l Elytra smooth, shiny. Pronotum with small and widely space punctation.¶
 =|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 0.986
@@ -280,7 +290,9 @@ punctation ................................................... 2¶ 1.000
 
 - Elytra less globose. Pronotum cylindrical ............................ 3¶ 1.000
 
-3 Intervals on Elytra ﬂat, smooth. Aedeagus widened with a cordiform¶ 1.000
+3 Intervals on Elytra ﬂ_at, smooth. Aedeagus widened with a cordiform¶
+||||||||||||||||||||||=-|||||||||||||||||||||||||||||||||||||||||||||| 0.971
+3 Intervals on Elytra flat, smooth. Aedeagus widened with a cordiform¶
 
 apex. Ecuador (Pichincha, Cerro Blanco) ........ (morei Bellé & Osella 2008¶
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||=||||||||||||||| 0.987
@@ -326,9 +338,13 @@ the genus. Furthermore an undescribed Howdeniola was recorded from Costa Rica¶ 
 
 HOWDENIOLA POLLETI SP. NOV. 193¶ 1.000
 
-__ 0.000
+__
+-- 0.000
+5¶
 
-________ 0.000
+________
+=------- 0.000
+0.25 mm¶
 
 6¶ 1.000
 
@@ -362,9 +378,9 @@ Natural Sciences), EDIT (European Distributed Institute of Taxonomy) and DFG RU-
 
 816 (Deutsche Forschungsgemeinschaft Research Unit 816). The sampling was¶ 1.000
 
-supported by the Leopold III Fund and by the Fund for Scientiﬁ_c Research — Flanders.¶
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||=-||||||||||||||||||||||| 0.977
-supported by the Leopold III Fund and by the Fund for Scientific Research — Flanders.¶
+supported by the Leopold III Fund and by the Fund for Scient__iﬁc Research — Flanders.¶
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||--|+||||||||||||||||||||||| 0.966
+supported by the Leopold III Fund and by the Fund for Scientifi_c Research — Flanders.¶
 
 REFERENCES¶ 1.000
 
@@ -386,21 +402,164 @@ ptera, Curculionidae; Molytinae, Cryptorhynchinae, Cossoninae). Memoirs of the E
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||=|||| 0.988
 ptera, Curculionidae; Molytinae, Cryptorhynchinae, Cossoninae). Memoirs of the Ento -¶
 
-mological Society of_Canada, 124: (162) 1—76.¶ 0.978
+mological Society of_Canada, 124: (162) 1—76.¶
+||||||||||||||||||||-||||||||||||||||||||||||| 0.978
+mological Society of Canada, 124: (162) 1—76.¶
 
 OSELLA, G. 1980. Nuovi Curculionidi ciechi della regione neotropicale (Coleoptera). Fragmenta¶ 1.000
 
 Entomologica, Roma. 15 (2): 365-422.¶ 1.000
 
+
+Word mismatches:
+"-"    15
+  "-"    14 (0.9333)
+  "~"     1 (0.0667)
+"1"     2
+  "1"     1 (0.5000)
+  "l"     1 (0.5000)
+"1st"     1
+  "15‘"     1 (1.0000)
+"3rd"     1
+  "3“"     1 (1.0000)
+"Belló"     6
+  "Bello"     3 (0.5000)
+  "Bellé"     3 (0.5000)
+"C."     7
+  "C."     6 (0.8571)
+  "c."     1 (0.1429)
+"Ento"     2
+  "Enlo"     1 (0.5000)
+  "Ento"     1 (0.5000)
+"Femora"     1
+  "F"     1 (1.0000)
+"Howdeniola"    20
+  "Howdem'ola"     4 (0.2000)
+  "Howdem‘ola"     1 (0.0500)
+  "Howdeniola"    14 (0.7000)
+  "Howdeniolapolleti"     1 (0.0500)
+"II"     1
+  "11"     1 (1.0000)
+"Información"     1
+  "Informacion"     1 (1.0000)
+"Modified"     1
+  "Modiﬁed"     1 (1.0000)
+"Podocarpus"     4
+  "PodocarpuS"     1 (0.2500)
+  "Podocarpus"     3 (0.7500)
+"Scientific"     1
+  "Scientiﬁc"     1 (1.0000)
+"fifth"     2
+  "ﬁfth"     2 (1.0000)
+"find"     1
+  "ﬁnd"     1 (1.0000)
+"first"     3
+  "first"     1 (0.3333)
+  "ﬁrst"     2 (0.6667)
+"fixative"     1
+  "ﬁxative"     1 (1.0000)
+"flat"     1
+  "ﬂat"     1 (1.0000)
+"of"    47
+  "of"    46 (0.9787)
+  "ofCanada"     1 (0.0213)
+"polleti"    11
+  "polleti"     9 (0.8182)
+  "polletz"     1 (0.0909)
+  "pollezz"     1 (0.0909)
+"sp."    12
+  "Sp."     2 (0.1667)
+  "sp."    10 (0.8333)
+"view"     3
+  "View"     1 (0.3333)
+  "view"     2 (0.6667)
+"visible"     3
+  "Visible"     2 (0.6667)
+  "visible"     1 (0.3333)
+"♂"     1
+  "8"     1 (1.0000)
+
+Character mismatches:
+"-"    44
+  ","     1 (0.0227)
+  "-"    42 (0.9545)
+  "~"     1 (0.0227)
+"1"    58
+  "1"    57 (0.9828)
+  "l"     1 (0.0172)
+"C"    51
+  "C"    50 (0.9804)
+  "c"     1 (0.0196)
+"I"    72
+  "1"     2 (0.0278)
+  "I"    70 (0.9722)
+"f"   122
+  "f"   115 (0.9426)
+  "ﬁ"     6 (0.0492)
+  "ﬂ"     1 (0.0082)
+"i"   498
+  "'"     4 (0.0080)
+  "i"   491 (0.9859)
+  "z"     2 (0.0040)
+  "‘"     1 (0.0020)
+"n"   487
+  "m"     5 (0.0103)
+  "n"   482 (0.9897)
+"r"   478
+  "r"   477 (0.9979)
+  "“"     1 (0.0021)
+"s"   447
+  "5"     1 (0.0022)
+  "S"     3 (0.0067)
+  "s"   443 (0.9911)
+"t"   542
+  "l"     1 (0.0018)
+  "t"   539 (0.9945)
+  "z"     1 (0.0018)
+  "‘"     1 (0.0018)
+"v"    61
+  "V"     3 (0.0492)
+  "v"    58 (0.9508)
+"ó"     7
+  "o"     4 (0.5714)
+  "é"     3 (0.4286)
+"♂"     1
+  "8"     1 (1.0000)
+
+Character match (confusion) table:
+- , 0.0227
+- ~ 0.0227
+1 l 0.0172
+C c 0.0196
+I 1 0.0278
+f ﬁ 0.0492
+f ﬂ 0.0082
+i ' 0.0080
+i z 0.0040
+i ‘ 0.0020
+n m 0.0103
+r “ 0.0021
+s 5 0.0022
+s S 0.0067
+t l 0.0018
+t z 0.0018
+t ‘ 0.0018
+v V 0.0492
+ó o 0.5714
+ó é 0.4286
+♂ 8 1.0000
+
+Summary:
+
              lines  words  chars
 items ocr:     158   1507  10264 
-items grt:     164   1519  10302 
-matches:       126   1466  10213 
-edits:          38     54     92 
- subss:         32     40     48 
- inserts:        0      1      3 
- deletions:      6     13     41 
-precision:  0.7975 0.9728 0.9950 
-recall:     0.7683 0.9651 0.9914 
-accuracy:   0.7683 0.9645 0.9911 
-f-score:    0.7826 0.9689 0.9932 
+items grt:     164   1519  10303 
+matches:       125   1465  10212 
+edits:          39     55     96 
+ subss:         33     41     47 
+ inserts:        0      1      5 
+ deletions:      6     13     44 
+precision:  0.7911 0.9721 0.9949 
+recall:     0.7622 0.9645 0.9912 
+accuracy:   0.7622 0.9638 0.9907 
+f-score:    0.7764 0.9683 0.9930 
